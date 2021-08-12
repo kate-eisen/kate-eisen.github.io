@@ -4,3 +4,12 @@ _site
 .jekyll-metadata
 vendor
 .Rproj.user
+
+.jekyll-cache/
+.sass-cache/
+.jekyll-metadata
+
+.bundle/
+vendor/
+
+_site/

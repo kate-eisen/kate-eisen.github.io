@@ -1,35 +1,49 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you: 
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+### Site metadata ###
 
 title: Kate Eisen
-email: katherine [dot] eisen [at] biol [dot] lu [dot] se
-description: >- # this means to ignore newlines until "baseurl:"
-  Postdoctoral Researcher, Lund University
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://kate-eisen.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  kate-eisen
+description: Postdoctoral Researcher, Lund University
 
-# Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+github_username: kate-eisen
+
+### Build settings ###
+
+url: "https://kate-eisen.github.io"
+
+
+
+header_pages:
+  - index.markdown
+  - 01_about.markdown
+  - 02_research.markdown
+  - 03_CV.md
+
+exclude:
+  - docs/
+  - vendor/
+  - CONTRIBUTING.md
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - Makefile
+  - README.md
+
+liquid:
+  error_mode: strict
+
+strict_front_matter: true
+
+### Theme boilerplate ###
+
+remote_theme: MichaelCurrin/fractal
+
+titles_from_headings:
+  strip_title: true
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "page"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
