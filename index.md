@@ -49,7 +49,7 @@ I'm very excited to say that the fourth publication from my dissertation work is
 </td>
 </tr>
 
-     
+    <tr> 
 <td width="10%" style="padding-bottom:10px; text-align:top">
 <strong>August 2020 </strong> <br> <br> </td>
 
