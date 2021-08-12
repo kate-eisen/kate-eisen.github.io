@@ -7,6 +7,7 @@ layout: home
 
 <div class="row">
    <img src="/assets/flowers.jpg" style="width:100%">
+   <p style="font-size:10pt;color:DimGrey"> Floral diversity is amazing! And this is just visual diversity...</p>
    </div>
 <br>
 
