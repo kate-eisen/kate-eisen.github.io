@@ -6,7 +6,7 @@ permalink: /about/
 ---
 
 <div class="row">
-   <img src="/assets/Field_portrait.jpg" style="width:100%">
+   <img src="/assets/Field_portrait.jpeg" style="width:100%">
    </div>
 <br>
 
