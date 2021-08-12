@@ -5,4 +5,6 @@
 layout: home
 ---
 
-Hello world
+## I am an evolutionary ecologist.
+
+### I use flowers and floral trait diversity as a nexus for asking questions in ecology and evolutionary biology. 
