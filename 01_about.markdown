@@ -7,6 +7,7 @@ permalink: /about/
 
 <div class="row">
    <img src="/assets/Field_portrait.jpeg" style="width:100%">
+   <p style="font-size:10pt;color:DimGrey"> Working on <it>Clarkia</it> in Kern County, CA in 2018.</p>
    </div>
 <br>
 
