@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-My research program is motivated by my fascination with flowering plants.
+### My research program is motivated by my fascination with flowering plants.
 
 The mutualism that occurs between plants and pollinators is an incredible evolutionary response to the challenges plants face as rooted, generally immobile organisms. I find it fascinating that, in order to have other organisms assist with their reproduction, plants have evolved a whole suite of traits to attract pollinators and insure efficient pollination, including pungent floral scents, intoxicating nectar rewards, bright petal colors, and wild floral shapes.
 
-My academic & professional background 
+### My academic & professional background 
 
 Currently, I am a postdoc with Magne Friberg and Anna Runemark at Lund University. I am funded by an NSF Postdoctoral Fellowship in Biology in the Rules of Life Track. At Lund I will be trying to understand the factors that contribute to variation in the floral scent of an artic-alpine herb, *Arabis alpina*, from the genome to the biotic environment.
 
