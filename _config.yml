@@ -14,7 +14,7 @@ url: "https://kate-eisen.github.io"
 header_pages:
   - index.markdown
   - 01_about.markdown
-  - 02_research.markdown
+  - research/index.markdown
   - 03_CV.md
 
 exclude:
