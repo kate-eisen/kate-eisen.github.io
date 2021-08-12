@@ -5,6 +5,13 @@ permalink: /about/
 
 ---
 
+<div class="row">
+   <img src="/assets/Field_portrait.jpg" style="width:100%">
+   
+   <p style="font-size:10pt;color:DimGrey"> Working on <it>Clarkia</it> in Kern County, CA in 2018.</p>
+   </div>
+<br>
+
 ### My research program is motivated by my fascination with flowering plants.
 
 The mutualism that occurs between plants and pollinators is an incredible evolutionary response to the challenges plants face as rooted, generally immobile organisms. I find it fascinating that, in order to have other organisms assist with their reproduction, plants have evolved a whole suite of traits to attract pollinators and insure efficient pollination, including pungent floral scents, intoxicating nectar rewards, bright petal colors, and wild floral shapes.
