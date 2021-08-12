@@ -12,7 +12,7 @@ layout: home
 
 
 <p align="justify" style="font-size:130%;">
-*I am an evolutionary ecologist.*
+*I am an evolutionary ecologist*.
 </p>
 
 I use flowers as a nexus for asking questions in ecology and evolutionary biology
