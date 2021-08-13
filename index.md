@@ -65,7 +65,7 @@ The third publication from my dissertation work is now out in an issue at <i>Evo
 <strong>July 2020 </strong> <br> <br> </td>
 
 <td  width="90%" style="padding-bottom:10px;">
-ECR^2, an online meeting organized by grad students from ASN, SSE, and SSB, is happening! I've been working on a few of the events as well as overall logistics. The website for the meeting is linked <a href="https://www.evolutionmeetings.org">here</a>, and it provides a schedule. Recordings of most events will be available on YouTube (see meeting website) if you missed an event. 
+ECR<sup>2</sup>, an online meeting organized by grad students from ASN, SSE, and SSB, is happening! I've been working on a few of the events as well as overall logistics. The website for the meeting is linked <a href="https://www.evolutionmeetings.org">here</a>, and it provides a schedule. Recordings of most events will be available on YouTube (see meeting website) if you missed an event. 
 
 </td>
 </tr>
