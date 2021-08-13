@@ -4,12 +4,13 @@ title: Research
 permalink: /research/
 ---
 
-I will put my research description here.
+{General description}
+
+Post doc project
 
 Dissertation projects
 
 Collaborations
 
-Past projects
+You can also read about other collaborative projects and past research [here](https://kate-eisen.github.io/past_projects).
 
-Updates
