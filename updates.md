@@ -3,6 +3,7 @@ layout: page
 title: Updates
 permalink: /updates/
 ---
+##Updates
 
 <table>
 <tr>
