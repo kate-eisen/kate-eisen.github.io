@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Kate Eisen 
+subtitle: ecology & evolution of floral traits
 email: katherine [dot] eisen [at] biol [dot] lu [dot] se
 description: >- # this means to ignore newlines until "baseurl:"
   Postdoctoral researcher, Lund University
