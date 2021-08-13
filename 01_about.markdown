@@ -12,7 +12,7 @@ permalink: /about/
 
 ______
 
-### My research program is motivated by my fascination with flowering plants.
+<h3> My research program is motivated by my fascination with flowering plants.</h3>
 
 The mutualism that occurs between plants and pollinators is an incredible evolutionary response to the challenges plants face as rooted, generally immobile organisms. I find it fascinating that, in order to have other organisms assist with their reproduction, plants have evolved a whole suite of traits to attract pollinators and insure efficient pollination, including pungent floral scents, intoxicating nectar rewards, bright petal colors, and wild floral shapes.
 
