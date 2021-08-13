@@ -27,7 +27,9 @@ As a **postdoc** with Magne Friberg and Anna Runemark at Lund University, I will
 
 ----
 
-My **Ph.D work** in Monica Geber's lab at Cornell University focused on how species interactions in communities affect the evolution of plant traits, including morphology (<a href="https://doi.org/10.1111/jeb.13365">Eisen and Geber 2018</a>, <a href="https://doi.org/10.1111/evo.13960">Eisen et al. 2020</a>), phenology (<a href="https://doi.org/10.1086/705607">Eisen et al. 2019</a>), floral scent (<a href="https://doi.org/10.1086/715501">Eisen et al. 2021</a>), and physiology (in prep!). 
+My **Ph.D work** in Monica Geber's lab at Cornell University focused on how species interactions in communities affect the evolution of plant traits, including morphology (<a href="https://doi.org/10.1111/jeb.13365">Eisen and Geber 2018</a>, <a href="https://doi.org/10.1111/evo.13960">Eisen et al. 2020</a>), phenology (<a href="https://doi.org/10.1086/705607">Eisen et al. 2019</a>), floral scent (<a href="https://doi.org/10.1086/715501">Eisen et al. 2021</a>), and physiology (in prep!). Specifically, I was interested in how competition or facilitation among plants that share pollinators could lead to trait differentiation and variable patterns of selection. I worked in the southern foothills of the Sierra Nevada, where hillsides can have one to four outcrossing species in the genus <i>Clarkia</i> that share solitary bee pollinators. <br> <br>
+
+Through greenhouse- and field-based studies, I found that floral traits vary with the species composition of the community in patterns that are consistent with character displacement; I also found evidence for variation in the strength of contemporary natural selection on floral traits across communities and years.
 
 ----
 
