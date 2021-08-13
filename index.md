@@ -70,4 +70,5 @@ ECR^2, an online meeting organized by grad students from ASN, SSE, and SSB, is h
 </td>
 </tr>
 
+[Older updates](http://kate-eisen.github.io/updates)
 
