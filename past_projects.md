@@ -2,7 +2,6 @@
 layout: page
 title: Past Projects
 permalink: /past_projects/
-<link rel="shortcut icon" type="image/x-icon" href="assets/favicon.ico">
 ---
 
 ## Past research

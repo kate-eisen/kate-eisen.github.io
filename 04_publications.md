@@ -2,7 +2,6 @@
 layout: page
 title: Publications
 permalink: /publications/
-<link rel="shortcut icon" type="image/x-icon" href="assets/favicon.ico">
 ---
 
 Please contact me if you have any trouble accessing my publications. 
