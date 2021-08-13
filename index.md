@@ -25,6 +25,9 @@ ______
 
 Updates:
 
+
+
+
 <table>
      <tr>
      <td width="10%" style="padding-bottom:10px; text-align:top">
@@ -71,5 +74,5 @@ ECR^2, an online meeting organized by grad students from ASN, SSE, and SSB, is h
 </tr>
 
 
-[Older updates](updates.md)
+<a href="https://kate-eisen.github.io/updates">Older updates</a>
 
