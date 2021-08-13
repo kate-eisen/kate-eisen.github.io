@@ -18,7 +18,7 @@ email: katherine [dot] eisen [at] biol [dot] lu [dot] se
 description: >- # this means to ignore newlines until "baseurl:"
   Postdoctoral researcher, Lund University
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://meganbontrager.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://kate-eisen.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: kate-eisen
 
 # Build settings
@@ -27,7 +27,7 @@ plugins:
   - jekyll-feed
   
 
- header_pages: 
+header_pages: 
  - 01_about.markdown
  - 02_research.markdown
  - 03_CV.md
