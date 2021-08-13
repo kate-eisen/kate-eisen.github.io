@@ -9,6 +9,7 @@
     {%- else -%}
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
     {%- endif -%}
+    {% if site.subtitle %}<small>{{ site.subtitle }}</small>{% endif %}
 
     {%- if page_paths -%}
       <nav class="site-nav">
