@@ -31,4 +31,6 @@ I graduated from Amherst College with B.A. in Environmental Studies. I took a di
 
 ______
 
+ ### I am working towards a more diverse and inclusive scientific community
+ 
  
