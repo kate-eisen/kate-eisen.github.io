@@ -14,7 +14,7 @@ layout: home
 
 
 
-*I am an evolutionary ecologist.*
+## *I am an evolutionary ecologist.*
 
 
 I use flowers as a nexus for asking questions in ecology and evolutionary biology across scales of biological organization, from genomics and plant metabolism to community dynamics and large-scale meta-analyses. I'm currently working on an artic-alpine perennial in mountainous areas across Europe. I did my Ph.D. research in annual wildflower communities in the southern Sierra Nevada foothills in California. As a research associate, I worked on a perennial herb common in wet meadows in eastern North America.
@@ -23,7 +23,7 @@ I use flowers as a nexus for asking questions in ecology and evolutionary biolog
 
 ______
 
-Updates:
+ <font size="+2">Updates:</font>
 
 <table>
      <tr>
