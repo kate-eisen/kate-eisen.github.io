@@ -56,7 +56,7 @@ ECR^2, an online meeting organized by grad students from ASN, SSE, and SSB, is h
 
 <td  width="90%" style="padding-bottom:10px;">
 I defended my Ph.D.! A big thank you to my committee members for their support, and to my friends and family in & out of academia who zoomed into my virtual defense and made it a lot of fun! <br> <br>
-  I submitted a manuscript that provides evidence for character displacement in floral scent in *Clarkia*! It's available now on [bioRxiv](https://doi.org/10.1101/2020.04.02.022004). <br>
+  I submitted a manuscript that provides evidence for character displacement in floral scent in <i>Clarkia</i>! It's available now on [bioRxiv](https://doi.org/10.1101/2020.04.02.022004). <br>
 
 </td>
 </tr>
@@ -66,9 +66,9 @@ I defended my Ph.D.! A big thank you to my committee members for their support, 
 <strong>March 2020 <br> <br> <br> <br> <br> <br> </strong></td>
 
 <td  width="90%" style="padding-bottom:10px;">
-I received an NSF Postdoctoral Fellowship in Biology! I'll be working with Magne Friberg and Anna Runemark at Lund University on genomic & ecological factors that contribute to variation in the floral scent of *Arabis alpina* across Europe. <br>
+I received an NSF Postdoctoral Fellowship in Biology! I'll be working with Magne Friberg and Anna Runemark at Lund University on genomic & ecological factors that contribute to variation in the floral scent of <i>Arabis alpina</i> across Europe. <br>
   <br>
-  In early March, before everything shut down, I went on a super fun trip to Philadelphia, where I presented two seminars (the BEES grad seminar at Drexel, and the Academy seminar series at the Natural Academy). I also got to see *the original Clarkia*, the specimen collected on the Lewis and Clark expedition! The note on the type specimen (*Clarkia pulchella*) says "A beautiful herbaceous plant" --agree!
+  In early March, before everything shut down, I went on a super fun trip to Philadelphia, where I presented two seminars (the BEES grad seminar at Drexel, and the Academy seminar series at the Natural Academy). I also got to see *the original Clarkia*, the specimen collected on the Lewis and Clark expedition! The note on the type specimen (<i>Clarkia pulchella</i>) says "A beautiful herbaceous plant" --agree!
 </td>
 
 </tr>
@@ -86,7 +86,7 @@ I presented at the American Society of Naturalists Stand-Alone Meeting in Asilom
 <strong>November 2019 <br> <br> </strong></td>
 
 <td  width="90%" style="padding-bottom:10px;">
-The second publication from my dissertation is out in a special issue on floral trait evolution in the *International Journal of Plant Sciences*! This paper documents the results of a huge flowering time manipulation study that I performed in Kern County in 2016. The full text is available [here](https://doi.org/10.1086/705607).
+The second publication from my dissertation is out in a special issue on floral trait evolution in the <i>International Journal of Plant Sciences</i>! This paper documents the results of a huge flowering time manipulation study that I performed in Kern County in 2016. The full text is available [here](https://doi.org/10.1086/705607).
 </td></tr>
 
 
@@ -118,7 +118,7 @@ I went to two amazing meetings back to back: Evolution in Providence, RI and the
 <td  width="90%" style="padding-bottom:10px;">
 I'm excited to be a TA for Chemical Ecology this semester! Looking forward to getting students curious about the roles that chemistry plays in many systems, from plants & insects to marine inverts! I'll be giving a guest lecture on the chemical ecology of invasive species, as part of the final segment of the course, Chemical Ecology in the Anthropocene. <br> <br>
   
-Our meta-analysis of experimental studies of selection on floral traits is out in an issue at *Evolution*! This has been a long-time collaboration with Chris Caruso (University of Guelph), Ryan Martin (Case Western University), and Nina Sletvold (Uppsala University). You can check out the full text [here](https://doi.org/10.1111/evo.13639). 
+Our meta-analysis of experimental studies of selection on floral traits is out in an issue at <i>Evolution</i>! This has been a long-time collaboration with Chris Caruso (University of Guelph), Ryan Martin (Case Western University), and Nina Sletvold (Uppsala University). You can check out the full text [here](https://doi.org/10.1111/evo.13639). 
  </td>
 
 </tr>
@@ -128,9 +128,9 @@ Our meta-analysis of experimental studies of selection on floral traits is out i
 <strong>October 2018 <br> <br> <br> <br></strong></td>
 
 <td  width="90%" style="padding-bottom:10px;">
-The first publication from my dissertation is out in an issue at *Journal of Evolutionary Biology*. This study uses data from species co-occurrence mapping and a greenhouse common garden to address whether *Clarkia* communities are shaped by ecological sorting and character displacement. The full text is available [here](https://doi.org/10.1111/jeb.13365). <br> <br>
+The first publication from my dissertation is out in an issue at <i>Journal of Evolutionary Biology</i>. This study uses data from species co-occurrence mapping and a greenhouse common garden to address whether <i>Clarkia</i> communities are shaped by ecological sorting and character displacement. The full text is available [here](https://doi.org/10.1111/jeb.13365). <br> <br>
   
-  I published a digest in *Evolution* about a recent paper that uses an experimental evolution approach to explore how generalized pollination evolves. You can check it out [here](https://doi.org/10.1111/evo.13638).
+  I published a digest in <i>Evolution</i> about a recent paper that uses an experimental evolution approach to explore how generalized pollination evolves. You can check it out [here](https://doi.org/10.1111/evo.13638).
   
 
  </td>
