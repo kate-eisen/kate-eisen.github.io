@@ -6,14 +6,14 @@ permalink: /updates/
 ## Updates
 
 <table>
-<tr>
-<td width="10%" style="padding-bottom:10px; text-align:top">
+     <tr>
+     <td width="10%" style="padding-bottom:10px; text-align:top">
 <strong>July 2021 </strong> <br> <br> </td>
 
 <td  width="90%" style="padding-bottom:10px;">
-Finally, finally starting my postdoc at Lund University! Very excited to be working with Magne Friberg, Anna Runemark, and the rest of the team to try to figure out why there is so much variation in the floral scent of *Arabis alpina*. Looking forward to learning genomics and transcriptomics and hopefully spending a lot of time in the Alps next field season! <br>
+Finally, finally starting my postdoc at Lund University! Very excited to be working with Magne Friberg, Anna Runemark, and the rest of the team to try to figure out why there is so much variation in the floral scent of <i>Arabis alpina</i>. Looking forward to learning genomics and transcriptomics and hopefully spending a lot of time in the Alps next field season! <br>
   <br>
-  In other exciting news, a paper I co-authored from a collaboration that was in the works for a long time is now out in *Theoretical Ecology* [here](https://doi.org/10.1007/s12080-020-00478-3). We demonstrate how the Price Equation can be used to estimate biodiversity change in communities. 
+  In other exciting news, a paper I co-authored from a collaboration that was in the works for a long time is now out in <i>Theoretical Ecology</i> <a href="https://doi.org/10.1007/s12080-020-00478-3">here</a>. We demonstrate how the Price Equation can be used to estimate biodiversity change in communities. 
 
 </td>
 </tr>
@@ -24,28 +24,28 @@ Finally, finally starting my postdoc at Lund University! Very excited to be work
 <strong>May 2021 </strong> <br> <br> </td>
 
 <td  width="90%" style="padding-bottom:10px;">
-I'm very excited to say that the fourth publication from my dissertation work is now available [here] (https://doi.org/10.1086/715501), in early view at *The American Naturalist*! In this manuscript I provide evidence for character displacement in floral scent in *Clarkia*. 
+I'm very excited to say that the fourth publication from my dissertation work is now available <a href="https://doi.org/10.1086/715501">here</a>, in early view at <i>The American Naturalist</i>! In this manuscript I provide evidence for character displacement in floral scent in <i>Clarkia</i>. 
 
 </td>
 </tr>
- <tr>
+
+    <tr> 
 <td width="10%" style="padding-bottom:10px; text-align:top">
 <strong>August 2020 </strong> <br> <br> </td>
 
 <td  width="90%" style="padding-bottom:10px;">
-The third publication from my dissertation work is now out in an issue at *Evolution*! This project was a multi-year study that examines how community context shapes selection on floral traits in *Clarkia*. You can check out the paper [here](https://doi.org/10.1111/evo.13960), and a digest that was written about the paper [here](https://doi.org/10.1111/evo.14055).
+The third publication from my dissertation work is now out in an issue at <i>Evolution</i>! This project was a multi-year study that examines how community context shapes selection on floral traits in <i>Clarkia</i>. You can check out the paper <a href="https://doi.org/10.1111/evo.13960">here</a>, and a digest that was written about the paper <a href="https://doi.org/10.1111/evo.14055">here</a>.
 
 </td>
 </tr>
 
 
- 
   <tr>
 <td width="10%" style="padding-bottom:10px; text-align:top">
 <strong>July 2020 </strong> <br> <br> </td>
 
 <td  width="90%" style="padding-bottom:10px;">
-ECR^2, an online meeting organized by grad students from ASN, SSE, and SSB, is happening! I've been working on a few of the events as well as overall logistics. The website for the meeting is linked [here](https://www.evolutionmeetings.org), and it provides a schedule. Recordings of most events will be available on YouTube (see meeting website) if you missed an event. 
+ECR^2, an online meeting organized by grad students from ASN, SSE, and SSB, is happening! I've been working on a few of the events as well as overall logistics. The website for the meeting is linked <a href="https://www.evolutionmeetings.org">here</a>, and it provides a schedule. Recordings of most events will be available on YouTube (see meeting website) if you missed an event. 
 
 </td>
 </tr>
@@ -56,7 +56,7 @@ ECR^2, an online meeting organized by grad students from ASN, SSE, and SSB, is h
 
 <td  width="90%" style="padding-bottom:10px;">
 I defended my Ph.D.! A big thank you to my committee members for their support, and to my friends and family in & out of academia who zoomed into my virtual defense and made it a lot of fun! <br> <br>
-  I submitted a manuscript that provides evidence for character displacement in floral scent in <i>Clarkia</i>! It's available now on [bioRxiv](https://doi.org/10.1101/2020.04.02.022004). <br>
+  I submitted a manuscript that provides evidence for character displacement in floral scent in <i>Clarkia</i>! It's available now on <a href="https://doi.org/10.1101/2020.04.02.022004">bioRxiv</a>. <br>
 
 </td>
 </tr>
@@ -86,7 +86,7 @@ I presented at the American Society of Naturalists Stand-Alone Meeting in Asilom
 <strong>November 2019 <br> <br> </strong></td>
 
 <td  width="90%" style="padding-bottom:10px;">
-The second publication from my dissertation is out in a special issue on floral trait evolution in the <i>International Journal of Plant Sciences</i>! This paper documents the results of a huge flowering time manipulation study that I performed in Kern County in 2016. The full text is available [here](https://doi.org/10.1086/705607).
+The second publication from my dissertation is out in a special issue on floral trait evolution in the <i>International Journal of Plant Sciences</i>! This paper documents the results of a huge flowering time manipulation study that I performed in Kern County in 2016. The full text is available <a href="https://doi.org/10.1086/705607">here</a>.
 </td></tr>
 
 
@@ -118,7 +118,7 @@ I went to two amazing meetings back to back: Evolution in Providence, RI and the
 <td  width="90%" style="padding-bottom:10px;">
 I'm excited to be a TA for Chemical Ecology this semester! Looking forward to getting students curious about the roles that chemistry plays in many systems, from plants & insects to marine inverts! I'll be giving a guest lecture on the chemical ecology of invasive species, as part of the final segment of the course, Chemical Ecology in the Anthropocene. <br> <br>
   
-Our meta-analysis of experimental studies of selection on floral traits is out in an issue at <i>Evolution</i>! This has been a long-time collaboration with Chris Caruso (University of Guelph), Ryan Martin (Case Western University), and Nina Sletvold (Uppsala University). You can check out the full text [here](https://doi.org/10.1111/evo.13639). 
+Our meta-analysis of experimental studies of selection on floral traits is out in an issue at <i>Evolution</i>! This has been a long-time collaboration with Chris Caruso (University of Guelph), Ryan Martin (Case Western University), and Nina Sletvold (Uppsala University). You can check out the full text <a href="https://doi.org/10.1111/evo.13639">here</a> . 
  </td>
 
 </tr>
@@ -128,9 +128,9 @@ Our meta-analysis of experimental studies of selection on floral traits is out i
 <strong>October 2018 <br> <br> <br> <br></strong></td>
 
 <td  width="90%" style="padding-bottom:10px;">
-The first publication from my dissertation is out in an issue at <i>Journal of Evolutionary Biology</i>. This study uses data from species co-occurrence mapping and a greenhouse common garden to address whether <i>Clarkia</i> communities are shaped by ecological sorting and character displacement. The full text is available [here](https://doi.org/10.1111/jeb.13365). <br> <br>
+The first publication from my dissertation is out in an issue at <i>Journal of Evolutionary Biology</i>. This study uses data from species co-occurrence mapping and a greenhouse common garden to address whether <i>Clarkia</i> communities are shaped by ecological sorting and character displacement. The full text is available <a href="https://doi.org/10.1111/jeb.13365">here</a> . <br> <br>
   
-  I published a digest in <i>Evolution</i> about a recent paper that uses an experimental evolution approach to explore how generalized pollination evolves. You can check it out [here](https://doi.org/10.1111/evo.13638).
+  I published a digest in <i>Evolution</i> about a recent paper that uses an experimental evolution approach to explore how generalized pollination evolves. You can check it out <a href="https://doi.org/10.1111/evo.13638">here</a>.
   
 
  </td>

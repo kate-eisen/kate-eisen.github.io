@@ -33,7 +33,7 @@ ______
 <td  width="90%" style="padding-bottom:10px;">
 Finally, finally starting my postdoc at Lund University! Very excited to be working with Magne Friberg, Anna Runemark, and the rest of the team to try to figure out why there is so much variation in the floral scent of <i>Arabis alpina</i>. Looking forward to learning genomics and transcriptomics and hopefully spending a lot of time in the Alps next field season! <br>
   <br>
-  In other exciting news, a paper I co-authored from a collaboration that was in the works for a long time is now out in <i>Theoretical Ecology</i> [here](https://doi.org/10.1007/s12080-020-00478-3). We demonstrate how the Price Equation can be used to estimate biodiversity change in communities. 
+  In other exciting news, a paper I co-authored from a collaboration that was in the works for a long time is now out in <i>Theoretical Ecology</i> <a href="https://doi.org/10.1007/s12080-020-00478-3">here</a>. We demonstrate how the Price Equation can be used to estimate biodiversity change in communities. 
 
 </td>
 </tr>
@@ -44,7 +44,7 @@ Finally, finally starting my postdoc at Lund University! Very excited to be work
 <strong>May 2021 </strong> <br> <br> </td>
 
 <td  width="90%" style="padding-bottom:10px;">
-I'm very excited to say that the fourth publication from my dissertation work is now available [here](https://doi.org/10.1086/715501), in early view at <i>The American Naturalist</i>! In this manuscript I provide evidence for character displacement in floral scent in <i>Clarkia</i>. 
+I'm very excited to say that the fourth publication from my dissertation work is now available <a href="https://doi.org/10.1086/715501">here</a>, in early view at <i>The American Naturalist</i>! In this manuscript I provide evidence for character displacement in floral scent in <i>Clarkia</i>. 
 
 </td>
 </tr>
@@ -54,7 +54,7 @@ I'm very excited to say that the fourth publication from my dissertation work is
 <strong>August 2020 </strong> <br> <br> </td>
 
 <td  width="90%" style="padding-bottom:10px;">
-The third publication from my dissertation work is now out in an issue at <i>Evolution</i>! This project was a multi-year study that examines how community context shapes selection on floral traits in <i>Clarkia</i>. You can check out the paper [here](https://doi.org/10.1111/evo.13960), and a digest that was written about the paper [here](https://doi.org/10.1111/evo.14055).
+The third publication from my dissertation work is now out in an issue at <i>Evolution</i>! This project was a multi-year study that examines how community context shapes selection on floral traits in <i>Clarkia</i>. You can check out the paper <a href="https://doi.org/10.1111/evo.13960">here</a>, and a digest that was written about the paper <a href="https://doi.org/10.1111/evo.14055">here</a>.
 
 </td>
 </tr>
@@ -65,7 +65,7 @@ The third publication from my dissertation work is now out in an issue at <i>Evo
 <strong>July 2020 </strong> <br> <br> </td>
 
 <td  width="90%" style="padding-bottom:10px;">
-ECR^2, an online meeting organized by grad students from ASN, SSE, and SSB, is happening! I've been working on a few of the events as well as overall logistics. The website for the meeting is linked [here](https://www.evolutionmeetings.org), and it provides a schedule. Recordings of most events will be available on YouTube (see meeting website) if you missed an event. 
+ECR^2, an online meeting organized by grad students from ASN, SSE, and SSB, is happening! I've been working on a few of the events as well as overall logistics. The website for the meeting is linked <a href="https://www.evolutionmeetings.org">here</a>, and it provides a schedule. Recordings of most events will be available on YouTube (see meeting website) if you missed an event. 
 
 </td>
 </tr>
