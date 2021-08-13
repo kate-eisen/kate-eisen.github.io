@@ -60,3 +60,16 @@ a:link {
     text-decoration: underline;
     color: black
 }
+
+a:visited {
+    text-decoration: underline;
+    color: black
+}
+
+.greedy-nav .visible-links a:link {
+  color: black
+}
+
+.greedy-nav .visible-links a:visited {
+  color: black
+}
