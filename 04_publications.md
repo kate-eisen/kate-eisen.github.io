@@ -6,12 +6,16 @@ permalink: /publications/
 
 Please contact me if you have any trouble accessing my publications. 
 
+<br>
+
 ---
+
+<br>
 
 ### Peer-reviewed publications
 
 <br>
-<br>
+
 <ol reversed>
 <li><b>Eisen, K. E.</b>, Geber, M. A., and R. A. Raguso. <b>2021</b>. Emission rates of species-specific volatiles vary across communities of <i>Clarkia</i> species: Evidence for multi-modal character displacement. The American Naturalist doi: 10.1086/715501 </li>
 <br><br>
@@ -28,12 +32,12 @@ Please contact me if you have any trouble accessing my publications.
 <li><b>Eisen, K. E.</b>, Case, A. L., and C. M. Caruso. <b>2017</b>. Variation in pollen presentation in Lobelia siphilitica. International Journal of Plant Sciences 178: 79–84. <b>Featured Cover Article</b></li>
 <br><br>
 <li>Caruso, C. M., <b>Eisen, K. E.</b>, and A. L. Case. <b>2016</b>. A phylogenetic analysis of gynodioecy and its correlates in the flowering plants. International Journal of Plant Sciences 177: 115–121. <b>Featured Cover Article</b></li>
-<br><br>
+<br>
 <li><b>Eisen, K. E.</b> and A. Barker Plotkin. <b>2015</b>. Forty years of forest measurements support steadily increasing aboveground biomass in a maturing, <i>Quercus</i>-dominant northeastern forest. Journal of the Torrey Botanical Society 142: 97-112.</li>
 </ol>
-
+<br>
 ---
-
+<br>
 ### Book reviews & digests
 <ol reversed>
 <li><b>Eisen, K. E.</b> <b>2018</b>. Digest: A new approach to an old question: using experimental evolution to investigate the evolution of generalized pollination. Evolution 72: 2825–2827.</li>
