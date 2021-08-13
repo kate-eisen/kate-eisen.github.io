@@ -31,7 +31,8 @@ My **Ph.D work** in Monica Geber's lab at Cornell University focused on how spec
 
 Through greenhouse- and field-based studies, I found that floral traits vary with the species composition of the community in patterns that are consistent with character displacement; I also found evidence for variation in the strength of contemporary natural selection on floral traits across communities and years.
 <br>
-----
 
+----
+<br>
 You can also read about other collaborative projects and past research [here](https://kate-eisen.github.io/past_projects).
 
