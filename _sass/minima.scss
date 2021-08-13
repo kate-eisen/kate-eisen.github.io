@@ -66,10 +66,10 @@ a:visited {
     color: black
 }
 
-.greedy-nav .visible-links a:link {
-  color: black
+.navbar li a {
+    color: black;
 }
 
-.greedy-nav .visible-links a:visited {
-  color: black
+.navbar li a:visited {
+    color: black;
 }
