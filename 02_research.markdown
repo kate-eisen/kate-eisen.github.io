@@ -25,7 +25,11 @@ As a **postdoc** with Magne Friberg and Anna Runemark at Lund University, I will
    </div>
 <br>
 
-My **Ph.D work** focused on x and y.
+----
+
+My **Ph.D work** in Monica Geber's lab at Cornell University focused on how species interactions in communities affect the evolution of plant traits, including morphology (<a href="https://doi.org/10.1111/jeb.13365">Eisen and Geber 2018</a>, <a href="https://doi.org/10.1111/evo.13960">Eisen et al. 2020</a>), phenology (<a href="https://doi.org/10.1086/705607">Eisen et al. 2019</a>), floral scent (<a href="https://doi.org/10.1086/715501">Eisen et al. 2021</a>), and physiology (in prep!). 
+
+----
 
 You can also read about other collaborative projects and past research [here](https://kate-eisen.github.io/past_projects).
 
