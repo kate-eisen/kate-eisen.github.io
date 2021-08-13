@@ -10,6 +10,7 @@ permalink: /research/
 #### To address my questions, I use a diversity of tools (high throughput chemical analysis of volatile organic compounds, geometric morphometrics, stable isotope analysis, and comparative genomics and transcriptomics) and approaches (field experiments, greenhouse common gardens, meta-analyses). 
 
 ----
+<br>
 
 <div class="row">
    <img src="/assets/NSFff1.png" style="width:100%">
