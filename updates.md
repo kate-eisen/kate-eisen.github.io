@@ -2,6 +2,7 @@
 layout: page
 title: Updates
 permalink: /updates/
+<link rel="shortcut icon" type="image/x-icon" href="assets/favicon.ico">
 ---
 ## Updates
 

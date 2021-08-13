@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-
+<link rel="shortcut icon" type="image/x-icon" href="assets/favicon.ico">
 ---
 
 <div class="row">
