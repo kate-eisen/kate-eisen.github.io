@@ -3,7 +3,7 @@ layout: page
 title: Research
 permalink: /research/
 ---
-<link rel="shortcut icon" type="image/x-icon" href="assets/favicon.ico">
+
 
 ### My research program seeks to understand the factors that contribute to differentiation in floral traits across biological scales, from genomics to community dynamics.
 

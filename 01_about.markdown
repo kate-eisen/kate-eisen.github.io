@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-<link rel="shortcut icon" type="image/x-icon" href="assets/favicon.ico">
+
 <div class="row">
    <img src="/assets/Field_portrait.jpeg" style="width:100%">
    <p style="font-size:10pt;color:DimGrey"> Working on <i>Clarkia</i> in Kern County, CA in 2018.</p>
