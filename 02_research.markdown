@@ -21,9 +21,8 @@ As a **postdoc** with Magne Friberg and Anna Runemark at Lund University, I will
 
 <div class="row">
    <img src="/assets/NSFF2.png" style="width:100%">
-   <p style="font-size:10pt;color:DimGrey"> A. <i>A. alpina<i/>. B. and C. Scent varies across and within populations, regions, and mating systems. </p>
-  </div>
-<br>
+  <p style="font-size:10pt;color:DimGrey"> A conceptual figure for my postdoc project. </p>
+   </div>
 <br>
 
 ----
