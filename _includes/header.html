@@ -8,8 +8,7 @@
     <a href="{{ "/" | relative_url }}"><img class="site-masthead" src="{{ site.masthead | relative_url }}" alt="{{ site.title | escape }}" /></a>
     {%- else -%}
     <h1><a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a></h1>
-    {%- endif -%}<br />
-<h2 class="subtitle is-3" style="clear:left;">{{site.subtitle}}</h2>
+    {%- endif -%}
 
     {%- if page_paths -%}
       <nav class="site-nav">
@@ -33,5 +32,7 @@
         </div>
       </nav>
     {%- endif -%}
+      <h2 class="subtitle is-3" style="clear:left;font-size:14px;">{{site.subtitle}}</h2>
   </div>
+
 </header>
