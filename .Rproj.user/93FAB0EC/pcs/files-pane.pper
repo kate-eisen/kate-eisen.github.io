@@ -2,8 +2,8 @@
     "sortOrder": [
         {
             "columnIndex": 2,
-            "ascending": true
+            "ascending": false
         }
     ],
-    "path": "~/github/kate-eisen.github.io"
+    "path": "~/github/kate-eisen.github.io/_sass/minima"
 }

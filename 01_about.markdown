@@ -33,6 +33,6 @@ ______
 
 <br>
  
- ### I am working towards a more diverse and inclusive scientific community
+<h3> I am working towards a more diverse and inclusive scientific community </h3>
  
 The lack of diversity in STEM is an important issue, and one that I am dedicated to helping confront. I am working to educate myself about diversity issues in STEM and how combat my biases and prejudices, with the goal of promoting greater social equality in our community. My goal to use the privileged identities that I hold to enable people from all backgrounds and identities to achieve thier goals in and out of science.
