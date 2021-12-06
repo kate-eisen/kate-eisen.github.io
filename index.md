@@ -33,6 +33,16 @@ ______
 
 <tr>
      <td width="10%" style="padding-bottom:10px; text-align:top">
+<strong>November 2021 </strong> <br> <br> </td>
+
+<td  width="90%" style="padding-bottom:10px;">
+New paper out in <i>Functional Ecology</i> <a href="https://doi.org/10.1111/1365-2435.13970">here</a>! This was something I worked on with my lab at Cornell starting in spring 2020 and that we carried on during lockdown, so it is super exciting to see it come out.  
+
+</td>
+</tr>
+
+<tr>
+     <td width="10%" style="padding-bottom:10px; text-align:top">
 <strong>August 2021 </strong> <br> <br> </td>
 
 <td  width="90%" style="padding-bottom:10px;">
@@ -70,17 +80,6 @@ I'm very excited to say that the fourth publication from my dissertation work is
 
 <td  width="90%" style="padding-bottom:10px;">
 The third publication from my dissertation work is now out in an issue at <i>Evolution</i>! This project was a multi-year study that examines how community context shapes selection on floral traits in <i>Clarkia</i>. You can check out the paper <a href="https://doi.org/10.1111/evo.13960">here</a>, and a digest that was written about the paper <a href="https://doi.org/10.1111/evo.14055">here</a>.
-
-</td>
-</tr>
-
-
-  <tr>
-<td width="10%" style="padding-bottom:10px; text-align:top">
-<strong>July 2020 </strong> <br> <br> </td>
-
-<td  width="90%" style="padding-bottom:10px;">
-ECR<sup>2</sup>, an online meeting organized by grad students from ASN, SSE, and SSB, is happening! I've been working on a few of the events as well as overall logistics. The website for the meeting is linked <a href="https://www.evolutionmeetings.org">here</a>, and it provides a schedule. Recordings of most events will be available on YouTube (see meeting website) if you missed an event. 
 
 </td>
 </tr>

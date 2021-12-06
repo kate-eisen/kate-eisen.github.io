@@ -9,6 +9,26 @@ permalink: /updates/
 ## Updates
 
 <table>
+
+<tr>
+     <td width="10%" style="padding-bottom:10px; text-align:top">
+<strong>November 2021 </strong> <br> <br> </td>
+
+<td  width="90%" style="padding-bottom:10px;">
+New paper out in <i>Functional Ecology</i> <a href="https://doi.org/10.1111/1365-2435.13970">here</a>! This was something I worked on with my lab at Cornell starting in spring 2020 and that we carried on during lockdown, so it is super exciting to see it come out.  
+
+</td>
+</tr>
+
+<tr>
+     <td width="10%" style="padding-bottom:10px; text-align:top">
+<strong>August 2021 </strong> <br> <br> </td>
+
+<td  width="90%" style="padding-bottom:10px;">
+I just got back from a short but sweet trip to the French Alps to check out some populations of <i>Arabis alpina </i> that might be part of our 2022 field campaign. It was awesome to see the plants on the slopes of the Alps at elevations around 2,500 meters, and I had a great time at the lovely Jardin du Lautaret. 
+
+</td>
+</tr>
      <tr>
      <td width="10%" style="padding-bottom:10px; text-align:top">
 <strong>July 2021 </strong> <br> <br> </td>
