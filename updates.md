@@ -15,7 +15,8 @@ permalink: /updates/
 <strong>July 2022 </strong> <br> <br> </td>
 
 <td  width="90%" style="padding-bottom:10px;">
-Two exciting updates during this very quiet month here in Lund: we've started running our floral scent samples from the Arabis F2s! Can't wait to crunch through the chromatograms and see what we have.
+Two exciting updates during this very quiet month here in Lund: we've started running our floral scent samples from the Arabis F2s! Can't wait to crunch through the chromatograms and see what we have.<br>
+  <br>
 
 In July I participated in a training (for lack of a better word) with the ASN Diversity Committee facilitated by Krystle Cobrun. Krystle is in a word, amazing, and I highly recommend her for anyone looking for a facilitator to help a group make progress and gain confidence surrounding working on DEI projects.
 </td>
@@ -26,7 +27,8 @@ In July I participated in a training (for lack of a better word) with the ASN Di
 <strong>June 2022 </strong> <br> <br> </td>
 
 <td  width="90%" style="padding-bottom:10px;">
-New paper out in <i>American Journal of Botany</i> <a href="https://doi.org/10.1002/ajb2.16030">here</a>! I worked on this project in between my PhD and postdoc and it's exciting to see it come out. It was also a great experience participating in this special issue at AJB.  
+New paper out in <i>American Journal of Botany</i> <a href="https://doi.org/10.1002/ajb2.16030">here</a>! I worked on this project in between my PhD and postdoc and it's exciting to see it come out. It was also a great experience participating in this special issue at AJB.  <br>
+  <br>
 
 And earlier this month, I had a great week-long field trip to the French Alps, again based at the <a href="https://www.jardindulautaret.com/">Jardin du Lautaret</a>. I visited our established French populations and six new populations to sample trichomes and score herbivory, and I ate just a few baguettes along the way.
 
