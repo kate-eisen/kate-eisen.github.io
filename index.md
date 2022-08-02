@@ -17,7 +17,7 @@ layout: home
 ## *I am an evolutionary ecologist.*
 
 
-I use flowers as a nexus for asking questions in ecology and evolutionary biology across scales of biological organization, from genomics and plant metabolism to community dynamics and large-scale meta-analyses. I'm currently working on an artic-alpine perennial in mountainous areas across Europe. I did my Ph.D. research in annual wildflower communities in the southern Sierra Nevada foothills in California. As a research associate, I worked on a perennial herb common in wet meadows in eastern North America.
+I use flowers as a nexus for asking questions in ecology and evolutionary biology across scales of biological organization, from genomics and plant metabolism to community dynamics and large-scale meta-analyses. I'm currently working on the genomic underpinnings and ecological drivers of complex trait variation in an artic-alpine perennial in mountainous areas across Europe with Magne Friberg & Anna Runemark at Lund University. I did my Ph.D. research on the effects of community context on evolution in annual wildflower communities in the southern Sierra Nevada foothills in California with Monica Geber at Cornell University. As a research associate with Chris Caruso at the University of Guelph, I worked on projects investigating the evolution of sexual systems in plants using a perennial herb common in wet meadows in eastern North America.
 
 <br>
 
@@ -30,6 +30,16 @@ ______
  <br>
 
 <table>
+
+<tr>
+     <td width="10%" style="padding-bottom:10px; text-align:top">
+<strong>November 2021 </strong> <br> <br> </td>
+
+<td  width="90%" style="padding-bottom:10px;">
+New paper out in <i>Functional Ecology</i> <a href="https://doi.org/10.1111/1365-2435.13970">here</a>! This was something I worked on with my lab at Cornell starting in spring 2020 and that we carried on during lockdown, so it is super exciting to see it come out.  
+
+</td>
+</tr>
 
 <tr>
      <td width="10%" style="padding-bottom:10px; text-align:top">
