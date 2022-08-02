@@ -33,6 +33,59 @@ ______
 
 <tr>
      <td width="10%" style="padding-bottom:10px; text-align:top">
+<strong>July 2022 </strong> <br> <br> </td>
+
+<td  width="90%" style="padding-bottom:10px;">
+Two exciting updates during this very quiet month here in Lund: we've started running our floral scent samples from the Arabis F2s! Can't wait to crunch through the chromatograms and see what we have.
+
+In July I participated in a training (for lack of a better word) with the ASN Diversity Committee facilitated by Krystle Cobrun. Krystle is in a word, amazing, and I highly recommend her for anyone looking for a facilitator to help a group make progress and gain confidence surrounding working on DEI projects.
+</td>
+</tr>
+
+<tr>
+     <td width="10%" style="padding-bottom:10px; text-align:top">
+<strong>June 2022 </strong> <br> <br> </td>
+
+<td  width="90%" style="padding-bottom:10px;">
+New paper out in <i>American Journal of Botany</i> <a href="https://doi.org/10.1002/ajb2.16030">here</a>! I worked on this project in between my PhD and postdoc and it's exciting to see it come out. It was also a great experience participating in this special issue at AJB.  
+
+And earlier this month, I had a great week-long field trip to the French Alps, again based at the <a href="https://www.jardindulautaret.com/">Jardin du Lautaret</a>. I visited our established French populations and six new populations to sample trichomes and score herbivory, and I ate just a few baguettes along the way.
+
+</td>
+</tr>
+
+<tr>
+     <td width="10%" style="padding-bottom:10px; text-align:top">
+<strong>May 2022 </strong> <br> <br> </td>
+
+<td  width="90%" style="padding-bottom:10px;">
+Whew, we are finally wrapping up this round of working with our Arabis F1s and F2s in the greenhouse! Since January, we have collected 1,151 scent samples (but who's counting?!), and I flash-froze flowers from over 300 plants to use in an RNA-seq study down the road. Can't wait to find out what these plants have to tell us!    
+
+</td>
+</tr>
+
+<tr>
+     <td width="10%" style="padding-bottom:10px; text-align:top">
+<strong>April 2022 </strong> <br> <br> </td>
+
+<td  width="90%" style="padding-bottom:10px;">
+I left the tail-end of our massive greenhouse project behind for a week and escaped to our field sites in central Italy, where I experienced rain, hail, snow, sunshine, and an endless supply of Parmigiano Reggiano. Oh and Arabis! We sampled leaves for trichomes and set up a small herbivore exclusion experiment. It was great to get back into the field, I left with lots of ideas for future projects.
+
+</td>
+</tr>
+
+<tr>
+     <td width="10%" style="padding-bottom:10px; text-align:top">
+<strong>January 2022 </strong> <br> <br> </td>
+
+<td  width="90%" style="padding-bottom:10px;">
+Our Arabis F2s are just starting to flower! Hopefully a good proportion of them will flower and we'll get plenty of data over the next few months.
+
+</td>
+</tr>
+
+<tr>
+     <td width="10%" style="padding-bottom:10px; text-align:top">
 <strong>November 2021 </strong> <br> <br> </td>
 
 <td  width="90%" style="padding-bottom:10px;">
@@ -73,26 +126,6 @@ Finally, finally starting my postdoc at Lund University! Very excited to be work
 </td>
 </tr>
 
-  
-   <tr>
-     <td width="10%" style="padding-bottom:10px; text-align:top">
-<strong>May 2021 </strong> <br> <br> </td>
-
-<td  width="90%" style="padding-bottom:10px;">
-I'm very excited to say that the fourth publication from my dissertation work is now available <a href="https://doi.org/10.1086/715501">here</a>, in early view at <i>The American Naturalist</i>! In this manuscript I provide evidence for character displacement in floral scent in <i>Clarkia</i>. 
-
-</td>
-</tr>
-
-    <tr> 
-<td width="10%" style="padding-bottom:10px; text-align:top">
-<strong>August 2020 </strong> <br> <br> </td>
-
-<td  width="90%" style="padding-bottom:10px;">
-The third publication from my dissertation work is now out in an issue at <i>Evolution</i>! This project was a multi-year study that examines how community context shapes selection on floral traits in <i>Clarkia</i>. You can check out the paper <a href="https://doi.org/10.1111/evo.13960">here</a>, and a digest that was written about the paper <a href="https://doi.org/10.1111/evo.14055">here</a>.
-
-</td>
-</tr>
 </table>
 
 <a href="https://kate-eisen.github.io/updates">Older updates</a>
