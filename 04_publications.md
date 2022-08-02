@@ -40,6 +40,7 @@ Please contact me if you have any trouble accessing my publications.
 <li>Caruso, C. M., <b>Eisen, K. E.</b>, and A. L. Case. <b>2016</b>. A phylogenetic analysis of gynodioecy and its correlates in the flowering plants. International Journal of Plant Sciences 177: 115–121. doi: <a href="https://doi.org/10.1086/684260">10.1086/684260</a>  <b>Featured Cover Article</b></li>
 <br>
 <li><b>Eisen, K. E.</b> and A. Barker Plotkin. <b>2015</b>. Forty years of forest measurements support steadily increasing aboveground biomass in a maturing, <i>Quercus</i>-dominant northeastern forest. Journal of the Torrey Botanical Society 142: 97-112. doi: <a href="https://doi.org/10.3159/TORREY-D-14-00027.1">10.3159/TORREY-D-14-00027.1</a> </li>
+
 </ol>
 <br>
 
@@ -56,4 +57,5 @@ Please contact me if you have any trouble accessing my publications.
 <li> <b>Eisen, K. E.</b> <b>2017</b>. Digest: Trait variation in Mimulus provides new evidence for the joint action of ecological sorting and character displacement. Evolution 71: 1425–1427.</li>
 <br>
 <li> Petipas, R. H.* and <b>Eisen, K. E.</b>* <b>2016</b>. The Roots and Shoots of Plant Evolutionary Ecology. A review of G. P. Cheplick 2015. Approaches to Plant Evolutionary Ecology. Trends in Ecology &#38; Evolution 31: 409-410. *Authors contributed equally.</li>
+
 </ol>
