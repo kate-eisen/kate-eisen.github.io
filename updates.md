@@ -15,7 +15,7 @@ permalink: /updates/
 <strong>July 2022 </strong> <br> <br> </td>
 
 <td  width="90%" style="padding-bottom:10px;">
-Two exciting updates during this very quiet month here in Lund: we've started running our floral scent samples from the Arabis F2s! Can't wait to crunch through the chromatograms and see what we have.<br>
+Two exciting updates during this very quiet month here in Lund: we've started running our floral scent samples from the <i>Arabis</i> F<sub>2</sub>s! Can't wait to crunch through the chromatograms and see what we have.<br>
   <br>
 
 In July I participated in a training (for lack of a better word) with the ASN Diversity Committee facilitated by Krystle Cobrun. Krystle is in a word, amazing, and I highly recommend her for anyone looking for a facilitator to help a group make progress and gain confidence surrounding working on DEI projects.
@@ -40,7 +40,7 @@ And earlier this month, I had a great week-long field trip to the French Alps, a
 <strong>May 2022 </strong> <br> <br> </td>
 
 <td  width="90%" style="padding-bottom:10px;">
-Whew, we are finally wrapping up this round of working with our Arabis F1s and F2s in the greenhouse! Since January, we have collected 1,151 scent samples (but who's counting?!), and I flash-froze flowers from over 300 plants to use in an RNA-seq study down the road. Can't wait to find out what these plants have to tell us!    
+Whew, we are finally wrapping up this round of working with our <i>Arabis</i> F<sub>1</sub>s and F<sub>2</sub>s in the greenhouse! Since January, we have collected 1,151 scent samples (but who's counting?!), and I flash-froze flowers from over 300 plants to use in an RNA-seq study down the road. Can't wait to find out what these plants have to tell us!    
 
 </td>
 </tr>
@@ -50,7 +50,7 @@ Whew, we are finally wrapping up this round of working with our Arabis F1s and F
 <strong>April 2022 </strong> <br> <br> </td>
 
 <td  width="90%" style="padding-bottom:10px;">
-I left the tail-end of our massive greenhouse project behind for a week and escaped to our field sites in central Italy, where I experienced rain, hail, snow, sunshine, and an endless supply of Parmigiano Reggiano. Oh and Arabis! We sampled leaves for trichomes and set up a small herbivore exclusion experiment. It was great to get back into the field, I left with lots of ideas for future projects.
+I left the tail-end of our massive greenhouse project behind for a week and escaped to our field sites in central Italy, where I experienced rain, hail, snow, sunshine, and an endless supply of Parmigiano Reggiano. Oh and <i>Arabis</i>! We sampled leaves for trichomes and set up a small herbivore exclusion experiment. It was great to get back into the field, I left with lots of ideas for future projects.
 
 </td>
 </tr>
@@ -60,7 +60,7 @@ I left the tail-end of our massive greenhouse project behind for a week and esca
 <strong>January 2022 </strong> <br> <br> </td>
 
 <td  width="90%" style="padding-bottom:10px;">
-Our Arabis F2s are just starting to flower! Hopefully a good proportion of them will flower and we'll get plenty of data over the next few months.
+Our <i>Arabis</i> F<sub>2</sub>s are just starting to flower! Hopefully a good proportion of them will flower and we'll get plenty of data over the next few months.
 
 </td>
 </tr>
