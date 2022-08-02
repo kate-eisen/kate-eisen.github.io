@@ -52,10 +52,10 @@ Please contact me if you have any trouble accessing my publications.
 <br>
 
 <ol reversed>
-<li><b>Eisen, K. E.</b> <b>2018</b>. Digest: A new approach to an old question: using experimental evolution to investigate the evolution of generalized pollination. Evolution 72: 2825–2827.</li>
+<li><b>Eisen, K. E.</b> <b>2018</b>. Digest: A new approach to an old question: using experimental evolution to investigate the evolution of generalized pollination. Evolution 72: 2825–2827.doi: <a href="https://doi.org/10.1111/evo.13638">10.1111/evo.13638</a></li>
 <br>
-<li> <b>Eisen, K. E.</b> <b>2017</b>. Digest: Trait variation in Mimulus provides new evidence for the joint action of ecological sorting and character displacement. Evolution 71: 1425–1427.</li>
+<li> <b>Eisen, K. E.</b> <b>2017</b>. Digest: Trait variation in Mimulus provides new evidence for the joint action of ecological sorting and character displacement. Evolution 71: 1425–1427. doi: <a href="https://doi.org/10.1111/evo.13233">10.1111/evo.13233</a> </li>
 <br>
-<li> Petipas, R. H.* and <b>Eisen, K. E.</b>* <b>2016</b>. The Roots and Shoots of Plant Evolutionary Ecology. A review of G. P. Cheplick 2015. Approaches to Plant Evolutionary Ecology. Trends in Ecology &#38; Evolution 31: 409-410. *Authors contributed equally.</li>
+<li> Petipas, R. H.* and <b>Eisen, K. E.</b>* <b>2016</b>. The Roots and Shoots of Plant Evolutionary Ecology. A review of G. P. Cheplick 2015. Approaches to Plant Evolutionary Ecology. Trends in Ecology &#38; Evolution 31: 409-410. *Authors contributed equally. doi: <a href="https://doi.org/10.1016/j.tree.2016.02.007">10.1016/j.tree.2016.02.007</a></li>
 
 </ol>
