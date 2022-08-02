@@ -86,15 +86,6 @@ Our <i>Arabis</i> F<sub>2</sub>s are just starting to flower! Hopefully a good p
 </td>
 </tr>
 
-<tr>
-     <td width="10%" style="padding-bottom:10px; text-align:top">
-<strong>November 2021 </strong> <br> <br> </td>
-
-<td  width="90%" style="padding-bottom:10px;">
-New paper out in <i>Functional Ecology</i> <a href="https://doi.org/10.1111/1365-2435.13970">here</a>! This was something I worked on with my lab at Cornell starting in spring 2020 and that we carried on during lockdown, so it is super exciting to see it come out.  
-
-</td>
-</tr>
 
 <tr>
      <td width="10%" style="padding-bottom:10px; text-align:top">
