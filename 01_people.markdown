@@ -12,8 +12,6 @@ permalink: /People/
   }
   
   img {
-    max-width: 25%;
-    max-height:15%;
     float: left;
   }
   
@@ -30,10 +28,9 @@ permalink: /People/
         <img src="/assets/Field_portrait.jpeg">
       </div>
       <div class="text">
-        <h1> ## Dr. Katherine (Kate) Eisen
-        Dr. Eisen is an Assistant Professor in the Biology Department at LMU.
-        Dr. Eisen's <a href="https://kate-eisen.github.io/CV">CV</a>.
-        </h1>
+        <h1> Dr. Katherine (Kate) Eisen</h1>
+        Dr. Eisen is an Assistant Professor in the Biology Department at LMU. <br>
+        Dr. Eisen's <a href="https://kate-eisen.github.io/CV">CV</a>.<br>
       </div>
     </div>
   </body>
