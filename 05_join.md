@@ -4,6 +4,12 @@ title: Get Involved
 permalink: /join/
 ---
 
+<div class="row">
+   <img src="/assets/new_Clarkia.JPG" style="width:100%">
+   <p style="font-size:10pt;color:DimGrey"> <i>Clarkia</i> transplants at the LMU greenhouse, Spring 2025.</p>
+   </div>
+<br>
+
 ### Interested in joining the lab?
 
 ---
