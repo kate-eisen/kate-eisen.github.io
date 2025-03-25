@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Kate Eisen 
-subtitle: ecology & evolution of floral traits
-email: katherine [dot] eisen [at] biol [dot] lu [dot] se
+title: The Evolutionary Ecology Lab
+subtitle: @LMU
+email: katherine [dot] eisen [at] lmu [dot] edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Postdoctoral researcher, Lund University
+  Loyola Marymount University, Biology Department
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kate-eisen.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: kate-eisen
