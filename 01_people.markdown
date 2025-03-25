@@ -5,11 +5,9 @@ permalink: /People/
 ---
 
 <div class="row">
-   <img src="/assets/Field_portrait.jpeg" style="width:100%">
+   <img src="/assets/Field_portrait.jpeg" style="width:50%">
    <p style="font-size:10pt;color:DimGrey"> Working on <i>Clarkia</i> in Kern County, CA in 2018.</p>
    </div>
-<br>
-
 
 ## Dr. Katherine (Kate) Eisen
 
