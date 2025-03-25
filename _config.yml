@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: The Evolutionary Ecology Lab
-subtitle: at LMU
+
+
 email: katherine [dot] eisen [at] lmu [dot] edu
 description: >- # this means to ignore newlines until "baseurl:"
   Loyola Marymount University, Biology Department
@@ -38,7 +38,7 @@ header_pages:
  
 
 # Specify the name of a file to show as a masthead graphic at the top of each page, instead of a title, here:
-# masthead: /assets/toothpicks.jpg
+masthead: /assets/final_logo.pdf
 
 # Exclude from processing.
 # The following items will not be processed, by default.
