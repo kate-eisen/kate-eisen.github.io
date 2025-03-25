@@ -38,7 +38,7 @@ header_pages:
  
 
 # Specify the name of a file to show as a masthead graphic at the top of each page, instead of a title, here:
-masthead: /assets/final_logo.pdf
+masthead: /assets/final_logo.jpg
 
 # Exclude from processing.
 # The following items will not be processed, by default.
