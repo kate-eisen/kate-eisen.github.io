@@ -18,6 +18,9 @@ Please contact me if you have any trouble accessing my publications.
 
 <ol reversed>
 
+<li><b>Eisen, K. E.</b>, Powers, J. M.*, Raguso, R. A., and D. R. Campbell. <b>2022</b>.  An analytical pipeline to support robust research on the ecology, evolution, and function of floral volatiles. Frontiers in Ecology and Evolution: doi: <a href="https://doi.org/10.3389/fevo.2022.1006416">fevo.2022.1006416</a> <b>Research Topic: "Methods in Chemical Ecology.''</b></li>
+<br>
+
 <li><b>Eisen, K. E.</b>, Ma, R., and R. A. Raguso. <b>2022</b>.  Among- and within-population variation in floral morphology and scent in a hawkmoth pollinated plant. American Jounal of Botany: doi: <a href="https://doi.org/10.1002/ajb2.16030">10.1002/ajb2.16030</a> <b>Special issue on "Approaches to the Study of Quantitative Fitness-Related Traits.''</b></li>
 <br>
 
