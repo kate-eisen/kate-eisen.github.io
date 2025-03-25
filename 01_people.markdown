@@ -16,7 +16,6 @@ permalink: /People/
   }
   
   .text {
-    font-size: 20px;
     padding-left: 20px;
     padding-top: 20%;
     float: left;
