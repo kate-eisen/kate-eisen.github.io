@@ -4,6 +4,12 @@ title: Education
 permalink: /education/
 ---
 
+<div class="row">
+   <img src="/assets/class.jpg" style="width:100%">
+   <p style="font-size:10pt;color:DimGrey"> BIOL 475 at the Manhattan Beach restored dunes site, Fall 2023.</p>
+   </div>
+<br>
+
 ## COURSE OFFERINGS
 
 Dr. Eisen teaches both lower- and upper-division courses in the <a href="https://cse.lmu.edu/department/biology/">Biology Department</a> at LMU.
