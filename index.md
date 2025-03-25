@@ -15,11 +15,14 @@ title: Welcome
 
 
 
-## *I am an evolutionary ecologist.*
+## *Welcome to the Evolutionary Ecology Lab @ LMU*
 
+We are broadly interested in research questions at the intersection between evolutionary biology and community ecology. 
+Most of our work uses flowers as a nexus for asking questions about the factors that shape and generate biodiversity, from genomics to community dynamics.
 
-I use flowers as a nexus for asking questions in ecology and evolutionary biology across scales of biological organization, from genomics and plant metabolism to community dynamics and large-scale meta-analyses. I'm currently working on the genomic underpinnings and ecological drivers of complex trait variation in an artic-alpine perennial in mountainous areas across Europe with Magne Friberg & Anna Runemark at Lund University. I did my Ph.D. research on the effects of community context on evolution in annual wildflower communities in the southern Sierra Nevada foothills in California with Monica Geber at Cornell University. As a research associate with Chris Caruso at the University of Guelph, I worked on projects investigating the evolution of sexual systems in plants using a perennial herb common in wet meadows in eastern North America.
+We conduct discovery-focused, basic science research and contribute to ongoing coastal dune restoration efforts by studying the diversity of these communities.
 
+We believe that science is for everyone, and that the best science is done by diverse groups of people with different backgrounds and lived experiences. Please explore our site to learn more about us, our work, and how you can get involved.
 <br>
 
 ______
