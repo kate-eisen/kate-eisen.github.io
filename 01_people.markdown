@@ -4,8 +4,8 @@ title: People
 permalink: /People/
 ---
 
-<div class="row">
-   <img src="/assets/Field_portrait.jpeg" style="width:50%">
+<div class="row" style='vertical-align:middle; display:inline;'>
+   <img src="/assets/Field_portrait.jpeg" style="width:50%; vertical-align:left">
    <p style="font-size:10pt;color:DimGrey"> Working on <i>Clarkia</i> in Kern County, CA in 2018.</p>
    </div>
 

@@ -31,6 +31,7 @@ plugins:
 header_pages:
  - 01_people.markdown
  - 02_research.markdown
+ - 03_education.md
  - 04_publications.md
  - 05_join.md
  
