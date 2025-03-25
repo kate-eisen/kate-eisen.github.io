@@ -29,8 +29,7 @@ plugins:
   
 
 header_pages:
- - index.md
- - 01_about.markdown
+ - 01_people.markdown
  - 02_research.markdown
  - 03_CV.md
  - 04_publications.md
