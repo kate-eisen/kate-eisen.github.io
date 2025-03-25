@@ -18,7 +18,16 @@ Please contact me if you have any trouble accessing my publications.
 
 <ol reversed>
 
-<li><b>Eisen, K. E.</b>, Powers, J. M.*, Raguso, R. A., and D. R. Campbell. <b>2022</b>.  An analytical pipeline to support robust research on the ecology, evolution, and function of floral volatiles. Frontiers in Ecology and Evolution: doi: <a href="https://doi.org/10.3389/fevo.2022.1006416">fevo.2022.1006416</a> <b>Research Topic: "Methods in Chemical Ecology.''</b></li>
+<li>Albor, C.,<b>Eisen, K. E.</b>, Moore, E., Geber, M., Ashman, T.-L., Raguso, R. A., Arceo-Gómez, G. <b>2024</b>.  Co-flowering richness has variable effects on pollen quantity and quality limitation in four \textit{Clarkia} species. Annals of Botany 134: 901-918. doi: <a href="https://doi.org/10.1093/aob/mcae136">10.1093/aob/mcae136</a></li>
+<br>
+
+<li>Thosteman, H. E.,<b>Eisen, K. E.</b>, Petrén, H., Boutsi, S., Pace, L.,  Halley, J. M., De Moraes, C. M., Mescher M. C., Buckley, J., and M. Friberg. <b>2024</b>.  Integration of attractive and defensive phytochemicals is unlikely to constrain chemical diversification in a perennial herb. New Phytologist 244: 249-264. doi: <a href="https://doi.org/10.1111/nph.20006">10.1111/nph.20006</a> </li>
+<br>
+
+<li><b>Eisen, K. E.</b>, Boutsi, S., Halley, J. M., Pace, L., Petrén, H., Thosteman, H., and M. Friberg. <b>2023</b>.  Honest floral signalling traits vary across and within populations in an insect‐pollinated plant. Functional Ecology 37: 2511-2522. doi: <a href="https://doi.org/10.1111/1365-2435.14405">10.1111/1365-2435.14405</a></li>
+<br>
+
+<li><b>Eisen, K. E.</b>, Powers, J. M., Raguso, R. A., and D. R. Campbell. <b>2022</b>.  An analytical pipeline to support robust research on the ecology, evolution, and function of floral volatiles. Frontiers in Ecology and Evolution: doi: <a href="https://doi.org/10.3389/fevo.2022.1006416">fevo.2022.1006416</a> <b>Research Topic: "Methods in Chemical Ecology.''</b></li>
 <br>
 
 <li><b>Eisen, K. E.</b>, Ma, R., and R. A. Raguso. <b>2022</b>.  Among- and within-population variation in floral morphology and scent in a hawkmoth pollinated plant. American Jounal of Botany: doi: <a href="https://doi.org/10.1002/ajb2.16030">10.1002/ajb2.16030</a> <b>Special issue on "Approaches to the Study of Quantitative Fitness-Related Traits.''</b></li>
