@@ -14,6 +14,7 @@ permalink: /People/
 ## Dr. Katherine (Kate) Eisen
 
 Dr. Eisen is an Assistant Professor in the Biology Department at LMU.
+
 Dr. Eisen's <a href="https://kate-eisen.github.io/CV">CV</a>.
 
 
